@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍉 About Me:
 Hello there! <br>My name is Arturo and I'm a passionate cross-platform application development  student. <br>Currently trying to learn all I can about different programming and database languages!
 
 
