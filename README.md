@@ -41,11 +41,11 @@
 
 ###
 
-<kbd><img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFhMThyN295bGZ1eThob2o5Z3ozOGhnb2d6YWRjb2N6N3E0ZG5hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqWppjuCxCXaByUQBR/giphy.gif"  /></kbd>
+<kbd><img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFhMThyN295bGZ1eThob2o5Z3ozOGhnb2d6YWRjb2N6N3E0ZG5hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqWppjuCxCXaByUQBR/giphy.gif"  /></kbd>
 
 ###
 
-<div align="left" >
+<div align="center" >
   <a href="a.aguirreponzano@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
