@@ -40,8 +40,9 @@
 <img src="https://raw.githubusercontent.com/ink-time/ink-time/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<kbd><img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFhMThyN295bGZ1eThob2o5Z3ozOGhnb2d6YWRjb2N6N3E0ZG5hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqWppjuCxCXaByUQBR/giphy.gif"  /></kbd>
+<div align="center" >
+<kbd><img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFhMThyN295bGZ1eThob2o5Z3ozOGhnb2d6YWRjb2N6N3E0ZG5hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqWppjuCxCXaByUQBR/giphy.gif"  /></kbd>
+</div>
 
 ###
 
