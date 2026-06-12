@@ -5,10 +5,13 @@
 
 <br>I approach software engineering with a systematic problem-solving mindset, focusing on building reliable, scalable solutions and quickly adapting to new technological environments.
 
-👾 Starting to code some simple games from zero.
+### 🛠️ Current Focus & Projects
 
-⛰️ Also taking a look at how one of my favourite games, Celeste, 
-<br> &nbsp; &nbsp; &nbsp; was originally coded (C##)</h3>
+* 🐍 **Expanding my toolkit:** Currently diving deeper into Python to broaden my backend and data capabilities.
+* 📱 **Group Expense Management App:** I am actively scaling my final project—a mobile application designed for groups dining out together. 
+  * **Frontend:** Built with Flutter.
+  * **Backend:** A custom-made REST API utilizing Spring Boot.
+  * **Databases:** PostgreSQL for core data management paired with Firebase Realtime Database for low-latency features.
 
 
 
