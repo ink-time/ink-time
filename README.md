@@ -3,7 +3,7 @@
 
 <br>I am a Full Stack Developer with practical experience building and maintaining enterprise-level applications. My core strength lies in backend development, database architecture and management, and performance optimization. However, I don't shy away from frontend development tasks either, my illustration and concept art past experience and passion translate into a keen interest in this side of development as well.
 
-<br>I approach software engineering with a systematic problem-solving mindset, focusing on building reliable, scalable solutions and quickly adapting to new technological environments.
+I approach software engineering with a systematic problem-solving mindset, focusing on building reliable, scalable solutions and quickly adapting to new technological environments.
 
 ### 🛠️ Current Focus & Projects
 
